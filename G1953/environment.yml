@@ -1,0 +1,6 @@
+dependencies:
+- octave_kernel
+- octave
+
+channels:
+- conda-forge
