@@ -1,5 +1,9 @@
+name: octave-binder
 channels:
 - conda-forge
 dependencies:
 - octave
 - octave_kernel
+- octabe-symbolic
+- python
+- sympy
