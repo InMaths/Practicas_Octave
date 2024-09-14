@@ -4,6 +4,5 @@ channels:
 dependencies:
 - octave
 - octave_kernel
-- octave-symbolic
 - python
 - sympy

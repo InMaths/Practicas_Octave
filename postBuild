@@ -1,0 +1,4 @@
+#!/bin/bash
+octave --eval "pkg install 'https://downloads.sourceforge.net/project/octave/Octave%20Forge%20Packages/Individual%20Package%20Releases/symbolic-3.2.1.tar.gz'"
+octave --eval "pkg load symbolic"
+
