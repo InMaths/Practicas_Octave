@@ -1,5 +1,5 @@
 octave
 octave-image
 ghostscript
-Qt
+gnuplot
 
