@@ -1,4 +1,4 @@
-
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1200px-Gnu-octave-logo.svg.png", width = 200>
 
 
 # Guías de Prácticas y Enlaces a Notebooks Interactivos
