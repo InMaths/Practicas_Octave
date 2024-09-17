@@ -2,6 +2,6 @@ name: inMath-octave-binder
 channels:
 - conda-forge
 dependencies:
-- octave-kernel
+- octave_kernel
 - python
 - sympy
