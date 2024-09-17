@@ -1,5 +1,4 @@
 octave
-octave-symbolic
 ghostscript
 gcc
 g++
