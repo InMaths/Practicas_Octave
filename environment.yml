@@ -1,7 +1,7 @@
-name: octave-binder
+name: inMath-octave-binder
 channels:
 - conda-forge
 dependencies:
-- octave_kernel
+- xeus-octave
 - python
 - sympy
