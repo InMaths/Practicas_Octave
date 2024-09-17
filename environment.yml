@@ -3,4 +3,9 @@ channels:
 - conda-forge
 dependencies:
 - xeus-octave
+- python
+- sympy
+- gnuplot
+- ghostscript
+
 
