@@ -1,1 +1,4 @@
-
+octave
+octave-image
+ghostscript
+gnuplot
