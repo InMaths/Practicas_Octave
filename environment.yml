@@ -2,10 +2,6 @@ name: inMath-octave-binder
 channels:
 - conda-forge
 dependencies:
-- xeus-octave
+- octave-kernel
 - python
 - sympy
-- gnuplot
-- ghostscript
-
-
