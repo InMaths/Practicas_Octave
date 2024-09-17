@@ -1,4 +1,5 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/240px-Gnu-octave-logo.svg.png" width = "200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/240px-Gnu-octave-logo.svg.png" width = "150"> &nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" width = "150"> &nbsp;&nbsp; <img src="https://mybinder.org/static/logo.svg" width = "250">
+
 
 ***
 # Guías de Prácticas y Enlaces a Notebooks Interactivos
