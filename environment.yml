@@ -3,5 +3,7 @@ channels:
 - conda-forge
 dependencies:
 - octave_kernel
+- texinfo
+- gnuplot
 - python
 - sympy
