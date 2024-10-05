@@ -23,7 +23,8 @@ In the table below, you will find a list of *Octave practice guides* along with 
 ## Available notebooks:
  1. Introduction to Octave [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_00_introOctave.ipynb)
  2. Complex numbers [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_01_complex.ipynb)
- 3. Numerical series [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_02_series.ipynb)                   
+ 3. Numerical series [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_02_series.ipynb)
+ 4. Plots [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_03_graphs.ipynb)                  
 
 ***
 
