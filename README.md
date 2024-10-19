@@ -12,6 +12,8 @@ En la siguiente tabla, encontrarás una lista de guías de *prácticas de Octave
  2. Números complejos [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G1953%2FCalculo_01_complejos.ipynb)
  3. Series numéricas [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G1953%2FCalculo_02_series.ipynb)
  4. Gráficos [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G1953%2FCalculo_03_graficos.ipynb)
+ 5. Funciones de una variable
+ 6. Límites y derivadas
 
 ***
 
