@@ -29,7 +29,8 @@ In the table below, you will find a list of *Octave practice guides* along with 
  3. Numerical series [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_02_series.ipynb)
  4. Plots [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_03_graphs.ipynb)
  5. Univariate real functions [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_04_functions.ipynb)
- 6. Limits and derivatives [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_05_lim_deriv.ipynb)              
+ 6. Limits and derivatives [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_05_lim_deriv.ipynb)
+ 7. Integral calculus [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_06_integral.ipynb)                
 
 ***
 
