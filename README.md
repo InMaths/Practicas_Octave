@@ -14,6 +14,7 @@ En la siguiente tabla, encontrarás una lista de guías de *prácticas de Octave
  4. Gráficos [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G1953%2FCalculo_03_graficos.ipynb)
  5. Funciones de una variable [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G1953%2FCalculo_04_funciones.ipynb)
  6. Límites y derivadas [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G1953%2FCalculo_05_lim_deriv.ipynb)
+ 7. Cálculo integral [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G1953%2FCalculo_06_integral.ipynb)
 
 ***
 
