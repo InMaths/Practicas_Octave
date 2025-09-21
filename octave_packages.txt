@@ -1,3 +1,3 @@
 % Instala el paquete symbolic desde Octave Forge si no está instalado
-pkg install -forge symbolic
+pkg install https://mybinder.org/v2/gh/InMaths/Practicas_Octave/devel?labpath=G1953%2FCalculo_02_series.ipynb
 pkg load symbolic
