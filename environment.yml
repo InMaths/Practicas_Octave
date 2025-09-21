@@ -5,5 +5,5 @@ dependencies:
 - octave_kernel
 - texinfo
 - gnuplot
-- python
+- python=3.10
 - sympy
