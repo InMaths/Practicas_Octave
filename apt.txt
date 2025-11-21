@@ -1,4 +1,5 @@
 octave
+python3-sympy
 ghostscript
 gnuplot-x11
 qtbase5-dev
