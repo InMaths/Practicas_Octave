@@ -1,4 +1,5 @@
 octave
+octave-symbolic
 python3-sympy
 ghostscript
 gnuplot-x11
