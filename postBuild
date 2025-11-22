@@ -1,7 +1,8 @@
 #!/bin/bash
-# Instalar symbolic desde Octave Forge
+# Install symbolic from Octave Forge
 octave --eval "pkg install -forge symbolic"
-
-# Hacer que se cargue automáticamente en cada sesión
+# Force automatic load in kernel
+mkdir -p /home/jovyan/.octave
+# Force automatic load in session
 echo "pkg load symbolic;" >> ~/.octaverc
 
