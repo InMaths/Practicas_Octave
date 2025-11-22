@@ -9,13 +9,14 @@ En la siguiente tabla, encontrarás una lista de guías de *prácticas de Octave
 
 ## Notebooks disponibles:
  1. Introducción a Octave [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G1953%2FCalculo_00_introOctave.ipynb)
- 2. Números complejos [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G1953%2FCalculo_01_complejos.ipynb)
- 3. Series numéricas [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G1953%2FCalculo_02_series.ipynb)
- 4. Gráficos [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G1953%2FCalculo_03_graficos.ipynb)
- 5. Funciones de una variable [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G1953%2FCalculo_04_funciones.ipynb)
- 6. Límites y derivadas [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G1953%2FCalculo_05_lim_deriv.ipynb)
- 7. Polinomio de Taylor [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G1953%2FCalculo_05b_Taylor.ipynb)
- 8. Cálculo integral [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G1953%2FCalculo_06_integral.ipynb)
+ 2. Introducción al paquete `symbolic` [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G1953%2FCalculo_00b_introSymbolic.ipynb)
+ 3. Números complejos [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G1953%2FCalculo_01_complejos.ipynb)
+ 4. Series numéricas [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G1953%2FCalculo_02_series.ipynb)
+ 5. Gráficos [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G1953%2FCalculo_03_graficos.ipynb)
+ 6. Funciones de una variable [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G1953%2FCalculo_04_funciones.ipynb)
+ 7. Límites y derivadas [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G1953%2FCalculo_05_lim_deriv.ipynb)
+ 8. Polinomio de Taylor [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G1953%2FCalculo_05b_Taylor.ipynb)
+ 9. Cálculo integral [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G1953%2FCalculo_06_integral.ipynb)
 
 ***
 
