@@ -4,5 +4,6 @@ octave --eval "pkg install -forge symbolic"
 # Force automatic load in kernel
 mkdir -p /home/jovyan/.octave
 # Force automatic load in session
-echo "pkg load symbolic;" >> ~/.octaverc
+## echo "pkg load symbolic;" >> ~/.octaverc
+echo "addpath('/home/jovyan/octave'); pkg load symbolic;" >> /home/jovyan/.octaverc
 
