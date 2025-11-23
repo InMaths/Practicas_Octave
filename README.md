@@ -27,12 +27,14 @@ In the table below, you will find a list of *Octave practice guides* along with 
 
 ## Available notebooks:
  1. Introduction to Octave [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_00_introOctave.ipynb)
- 2. Complex numbers [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_01_complex.ipynb)
- 3. Numerical series [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_02_series.ipynb)
- 4. Plots [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_03_graphs.ipynb)
- 5. Univariate real functions [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_04_functions.ipynb)
- 6. Limits and derivatives [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_05_lim_deriv.ipynb)
- 7. Integral calculus [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_06_integral.ipynb)                
+ 2. Introduction to the `symbolic` package [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_00b_introSymbolic.ipynb)
+ 3. Complex numbers [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_01_complex.ipynb)
+ 4. Numerical series [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_02_series.ipynb)
+ 5. Plots [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_03_graphs.ipynb)
+ 6. Univariate real functions [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_04_functions.ipynb)
+ 7. Limits and derivatives [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_05_lim_deriv.ipynb)
+ 8. Taylor Polynomials [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_05b_Taylor.ipynb)
+ 9. Integral calculus [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_Octave/HEAD?labpath=G2007%2FCalculus_06_integral.ipynb)                
 
 ***
 
